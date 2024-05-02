@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+    h1 {
+      color: #baff39;
+      margin: 0;
+      font-size: 4rem;
+      text-align: center;
+  }
+  
+  nav {
+      text-align: center;
+      padding:0.5rem;
+  }
+  nav > a {
+      text-decoration: none;
+      color: #baff39;
+      margin: 0.5rem;
+      text-transform: uppercase;
+      width: 100%;
+  }
+  nav > a:hover {
+      color: #ffffff;
+  }
+  body {
+      color: #baff39;
+      font-family: 'Roboto Condensed', sans-serif;
+  }
+  header {
+      background-color: #6e6e6e;
+  }
+  #about-box {
+      background-color: #6e6e6e;
+      width: 30%;
+      text-align: center;
+      border-radius: 15px;
+      margin-left: 60%;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      margin-top: 20px;
+  }
+  #plans-box {
+      background-color: #6e6e6e;
+      width: 30%;
+      text-align: center;
+      border-radius: 15px;
+      margin-left: 60%;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+  }
+  img {
+      border-radius: 15px;
+  }
+  footer {
+      background-color: #6e6e6e;
+  }
+  #socials {
+      text-align: center;
+      padding: 20px 0;
+      display: flex;
+      justify-content: space-evenly;
+      list-style-type: none;
+    }
+    #socials i {
+      font-size: 160%;
+      color: #baff39;
+    }
+    #contact-box {
+      background-color: #6e6e6e;
+      margin: 0.4rem;
+    }
+    .text-center {
+      text-align: center;
+      font-size: 2rem;
+    }
+    #times-box {
+      background-color: #ffffff;
+      width: 30%;
+      text-align: center;
+      border-radius: 15px;
+      margin-left: 35%;
+      position: relative;
+      padding-top: 0.5rem;
+      padding-bottom: 0.5rem;
+      color: black;
+    }
+    
+    #socials-sign {
+      text-align: center;
+      padding: 20px 0;
+      display: flex;
+      justify-content: space-evenly;
+      list-style-type: none;
+      margin-top: 30.5%;
+    }
+    #socials-sign i {
+      font-size: 160%;
+      color: #baff39;
+    }
+    
+  
