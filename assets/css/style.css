@@ -1,5 +1,7 @@
+/*Font*/
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
-    h1 {
+/*Header styleys*/    
+h1 {
       color: #baff39;
       margin: 0;
       font-size: 4rem;
@@ -20,13 +22,15 @@
   nav > a:hover {
       color: #ffffff;
   }
+  header {
+    background-color: #6e6e6e;
+}
+/*Main Content*/
   body {
       color: #baff39;
       font-family: 'Roboto Condensed', sans-serif;
   }
-  header {
-      background-color: #6e6e6e;
-  }
+  
   #about-box {
       background-color: #6e6e6e;
       width: 30%;
@@ -49,6 +53,7 @@
   img {
       border-radius: 15px;
   }
+  /*Footer Style*/
   footer {
       background-color: #6e6e6e;
   }
@@ -82,7 +87,7 @@
       padding-bottom: 0.5rem;
       color: black;
     }
-    
+    /*Sign Up Footer*/
     #socials-sign {
       text-align: center;
       padding: 20px 0;
