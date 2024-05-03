@@ -1,39 +1,24 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# KickSummer
 
-Welcome...,
+KickSummer is a football summer camp targeted to children looking to make friends and experiences during the summer. This camp will take place in Bushy Park, Dublin. If you're looking to send your kids on a camp this summer this is the place to be!
 
-This is the Code Institute student template for Codeanywhere. If you are using Gitpod then you need [this template](https://github.com/Code-Institute-Org/gitpod-full-template) instead.  We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
+/*Screenshot*/
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **August 30th, 2023**
-
-## Codeanywhere Reminders
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
-
-`python3 -m http.server`
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
-
-`http_server`
-
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
-
-A button should appear to click: _Open Preview_ or _Open Browser_.
-
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
-
-To log into the Heroku toolbelt CLI:
-
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
-
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
-
----
-
-Happy coding!
+# Features
+## Navigation bar
+This navigation bar will bring you to the sign up page and will also bring you to different areas of interest within the website.
+## Footer
+In the footer it will give you access to three of our social media accounts
+# Testing
+I have tested that all buttons and links work successfully. All links to other websites open up in a different tab when clicked
+## Validator testing
+My HTML has passed the official W3C validator with no errors
+My CSS has passed the official Jigsaw validator with no errors
+## Unfixed bugs
+When testing if the website works properly on smaller screen sizes mostly it works but sometimes it doesnt and the site doesnt display how it usually does
+## Deployment
+The live link can be found here: https://davidohara99.github.io/project.1/ 
+## Credits
+### Content
+Some code was used from runnable examples in the course content
+The icons were used from Font Awesome
