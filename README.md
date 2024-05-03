@@ -2,7 +2,8 @@
 
 KickSummer is a football summer camp targeted to children looking to make friends and experiences during the summer. This camp will take place in Bushy Park, Dublin. If you're looking to send your kids on a camp this summer this is the place to be!
 
-/*Screenshot*/
+
+![Website](<Screenshot 2024-05-03 at 20.38.12.png>)
 
 # Features
 ## Navigation bar
