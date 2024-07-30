@@ -16,7 +16,7 @@ I have tested that all buttons and links work successfully. All links to other w
 My HTML has passed the official W3C validator with no errors
 My CSS has passed the official Jigsaw validator with no errors
 ## Unfixed bugs
-When testing if the website works properly on smaller screen sizes mostly it works but sometimes it doesnt and the site doesnt display how it usually does
+The footer isnt style to exactly how i hoped
 ## Deployment
 The live link can be found here: https://davidohara99.github.io/project.1/ 
 ## Credits
